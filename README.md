@@ -24,7 +24,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,react,java" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,react,java,firebase,supabase" />
   </a>
 </p>
 
