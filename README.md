@@ -16,11 +16,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/verah-dulay" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="www.linkedin.com/in/verah-dulay"></a> <a href="verahjanae.dulay@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail"></a>
-</p>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
